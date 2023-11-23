@@ -1,2 +1,6 @@
 # samTemp2
-this repository is temporary repository for learning gitHub.
+#
+This repository is temporary repository for checking gitHub
+
+#test for hangul
+한글로 쓰는 README.md 내용입니다.
